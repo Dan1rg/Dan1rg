@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 <div>
 <img src = "https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" style="margin-right: 5px;">
 <img src = "https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" style="margin-right: 5px;">
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" style="margin-right: 5px;">
 </div>
 
 <h3>Tools</h3>
