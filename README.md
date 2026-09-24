@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 
 <h3>Tools</h3>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
 <h3>Art</h3>
   <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe" />
 <h3>My GitHub contributions summary</h3>
