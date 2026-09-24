@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 <div>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" style="margin-right: 5px;">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="margin-right: 5px;">
-
-<img src = "https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" style="margin-right: 5px;">
+  <img src = "https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" style="margin-right: 5px;">
 </div>
 
 <h3>Frameworks</h3>
@@ -28,9 +27,9 @@ Here are some ideas to get you started:
 </div>
 
 <h3>Tools</h3>
-
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 <h3>Art</h3>
-
+  <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe" />
 <h3>My GitHub contributions summary</h3>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=your_username&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
