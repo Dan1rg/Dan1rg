@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 ## 📈 GitHub Stats
 <!-- IMPORTANT: Replace 'YOUR_USERNAME' with your actual GitHub username below -->
 <p align="start">
-  <img src="https://streak-stats.demolab.com/?user=Dan1rg&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Dan1rg&ring=FF5252&fire=FF5252&currStreakNum=FF5252&sideNums=FF5252&text=FF5252&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
