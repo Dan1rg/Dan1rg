@@ -33,8 +33,6 @@ Here are some ideas to get you started:
 <h3>My GitHub contributions summary</h3>
 ## 📈 GitHub Stats
 <!-- IMPORTANT: Replace 'YOUR_USERNAME' with your actual GitHub username below -->
-<p align="center">
+<p align="start">
   <img src="https://streak-stats.demolab.com/?user=Dan1rg&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=your_username&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
