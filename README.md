@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <!-- IMPORTANT: Replace 'YOUR_USERNAME' with your actual GitHub username below -->
 <p align="start">
   <img 
-  src="https://streak-stats.demolab.com/?user=Dan1rg&timezone=America/Caracas&ring=FF5252&fire=FF5252&currStreakNum=FF5252&currStreakLabel=FF5252&sideNums=FF5252&text=FF5252&sideLabels=FF5252&dates=FF5252&stroke=FF5252&theme=transparent&hide_border=true" 
+  src="https://streak-stats.demolab.com/?user=Dan1rg&timezone=America/Caracas&background=00000000&border=00000000&hide_border=true&stroke=FF5252&ring=FF5252&fire=FF5252&currStreakNum=FF5252&currStreakLabel=FF5252&sideNums=FF5252&sideLabels=FF5252&dates=FF5252&text=FF5252" 
   alt="GitHub Streak" 
 />
 </p>
